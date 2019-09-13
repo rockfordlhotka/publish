@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "publish": {
+      "commandName": "Project",
+      "commandLineArgs": "test.md E:\\src\\rdl\\rockfordlhotka.github.io"
+    }
+  }
+}
