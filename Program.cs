@@ -97,7 +97,7 @@ namespace publish
         match = match.NextMatch();
       }
       if (!postText.Contains("featured-image: https"))
-        postText = postText.Replace("featured-image: ", $"featured-image: {{{{ site.url }}}}/assets/{v1}/");
+        postText = postText.Replace("featured-image: ", $"featured-image: https://blog.lhotka.net/assets/{v1}/");
       return postText;
     }
 
