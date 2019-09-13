@@ -2,7 +2,7 @@
   "profiles": {
     "publish": {
       "commandName": "Project",
-      "commandLineArgs": "test.md E:\\src\\rdl\\rockfordlhotka.github.io"
+      "commandLineArgs": "\"C:\\Users\\rocky\\OneDrive\\Documents\\Markdown Monster Weblog Posts\\2019-09\\AspCore-Csla5\\AspCore Csla5.md\" E:\\src\\rdl\\rockfordlhotka.github.io"
     }
   }
 }

@@ -9,10 +9,10 @@ featured-image: image1.png
 
 Various text goes here.
 
-![](image1.png)
+![](image1.png) and some text here
 
 and here
 
-![](image2.png)
+![text](image2.png)
 
 ![CSLA .NET](https://raw.github.com/MarimerLLC/csla/master/Support/Logos/csla%20win8_mid.png)
